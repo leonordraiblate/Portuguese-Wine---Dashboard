@@ -9,10 +9,10 @@ Caption:
 🔗 link
 
 # Methodology 🧮:
-1️⃣ **Retrieved databases from Kaggle with wine information concerning prices, ratings, country and wineries originaly from the Vivino website **: Red.csv.xls, Rose.csv.xls, Sparkling.csv.xls, Varieties.csv.xls, White.csv.xls
+1️⃣ **Retrieved databases from Kaggle with wine information concerning prices, ratings, country and wineries originaly from the Vivino website **: 📁Red.csv.xls, Rose.csv.xls, Sparkling.csv.xls, Varieties.csv.xls, White.csv.xls
 
-2️⃣ **Merged and cleaned all the information into one database:** Wine database.ipynb and winedf.xlsx
+2️⃣ **Merged and cleaned all the information into one database:** 📁Wine database.ipynb and winedf.xlsx
 
-3️⃣ **Webscrapped Continente's wine webpage using Selinium to retrieve the wines's brands and prices**: Continente.ipynb and continente_df.xlsx
+3️⃣ **Webscrapped Continente's wine webpage using Selinium to retrieve the wines's brands and prices**: 📁Continente.ipynb and continente_df.xlsx
 
-4️⃣ **Developed a dashboard to showcase the gathered information:** 
+4️⃣ **Developed a dashboard to showcase the gathered information:** 🔗 https://public.tableau.com/shared/XQ77WTWY5?:display_count=n&:origin=viz_share_link
